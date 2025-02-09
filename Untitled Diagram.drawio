@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.0.11" pages="2">
   <diagram id="pFb0MpjJVy6_yMp1JPtp" name="Page-2">
-    <mxGraphModel dx="1721" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1586" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,7 @@
         <mxCell id="d0G_s2lFXDd53nD6BOQX-5" value="Feature&amp;nbsp;&lt;div&gt;registry&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="960" y="610" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d0G_s2lFXDd53nD6BOQX-6" value="AutoML&lt;div&gt;Tensorflow&lt;/div&gt;&lt;div&gt;PyTorch&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="d0G_s2lFXDd53nD6BOQX-6" value="AutoML&lt;div&gt;Tensorflow&lt;/div&gt;&lt;div&gt;Python&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="837.35" y="502" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0G_s2lFXDd53nD6BOQX-13" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;strokeWidth=2;flowAnimation=1;entryX=0.436;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="d0G_s2lFXDd53nD6BOQX-30" target="eAZYdMzIZOF0PukDBkYk-63" edge="1">
